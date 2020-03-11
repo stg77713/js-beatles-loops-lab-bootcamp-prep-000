@@ -15,7 +15,7 @@ function johnLennonFacts(johnArray){
     'He was a choir boy and boy scout',
     'He hated the sound of his own voice',
     'While on tour, he enjoyed playing Monopoly',
-    'Harmonica was th'
+    'Harmonica was the first instrument Lennon learned to play'
     ];
     
   var i = 0;
