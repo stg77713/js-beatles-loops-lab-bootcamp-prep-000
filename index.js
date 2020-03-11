@@ -16,5 +16,8 @@ function johnLennonFacts(johnArray){
     "He hated the sound of his own voice"
     ];
     
-    while 
+  var i = 0;
+  var newFacts = [];
+  
+  while 
 }
