@@ -20,3 +20,11 @@ function johnLennonFacts(facts){
   return newFacts;
   
 }
+
+function iLoveTheBeatles(num){
+  var num = 15
+  var newArray = [];
+  do {
+    newArray.push("")
+  }
+}
