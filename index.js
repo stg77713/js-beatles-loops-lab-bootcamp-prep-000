@@ -19,5 +19,7 @@ function johnLennonFacts(johnArray){
   var i = 0;
   var newFacts = [];
   
-  while 
+  while (i < facts.length){
+    newFacts.push(i)
+  }
 }
